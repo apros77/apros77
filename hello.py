@@ -1,5 +1,6 @@
 import appdaemon.plugins.hass.hassapi as hass
 #import cv2
+#import cv2
 
 import os
 import pathlib
